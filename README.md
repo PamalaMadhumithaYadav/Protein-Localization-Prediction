@@ -28,10 +28,10 @@ Each protein may belong to one or more of the following compartments:
 
 ## 🗂 Dataset Structure
 
-Dataset/
+''' Dataset/
 ├── Benchmark_BinaryML.csv
 ├── Novel_BinaryML.csv
-└── parse_files.py
+└── parse_files.py '''
 
 
 - **Benchmark** → training dataset  
