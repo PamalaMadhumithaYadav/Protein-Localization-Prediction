@@ -143,6 +143,6 @@ The notebook includes:
 ---
 
 ## 👤 Author
-**Madhu**  
-M.S. in Artificial Intelligence  
+**Madhumitha Pamala**  
+M.S. in Computer Science  
 University at Buffalo
